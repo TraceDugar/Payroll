@@ -2,4 +2,4 @@
 
 <p>This is an exercise using classes, inheritance, and dummy data to create a ficticious company in order to learn these concpets</p>
 
-12/13/2023
+13 DEC 2023
